@@ -2,9 +2,12 @@
 
 - Plan gerado pelo Terraform CLI
     ![terraform CLI](image.png)
+    ![terraform CLOUD](image1.png)
+    ![print aws](image2.png)
+
 
 - Plan gerado pelo Terraform CLOUD
-    ![terraform CLOUD](image-1.png)
+    ![terraform CLOUD](image3.png)
 
  - Print da AWS
-    ![print aws](image-2.png)
+    ![print aws](image4.png)
