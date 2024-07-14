@@ -8,6 +8,7 @@
 
 - Plan gerado pelo Terraform CLOUD
     ![terraform CLOUD](image3.png)
+    ![terraform CLOUD](image3_1.png)
 
  - Print da AWS
     ![print aws](image4.png)
