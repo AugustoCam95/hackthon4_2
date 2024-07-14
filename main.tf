@@ -1,3 +1,8 @@
+provider "aws" {
+  region  = "us-west-2"   # Specify the AWS region
+  profile = "default"     # Specify the AWS CLI profile (optional)
+}
+
 data "aws_ami" "app_ami" {
   most_recent = true
 
